@@ -6,14 +6,14 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Store | GenXResell</title>
+        <title>Home | VoiceCrackerClub</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Welcome to VoiceCrackerClub!!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          This website is bieng hosted by ryken kennedy.  i thought it would be fun to start some sort of group website and so I did.
         </p>
       </main>
 
