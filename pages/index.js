@@ -15,7 +15,6 @@ export default function Home() {
         <p className="description">
           This website is bieng hosted by ryken kennedy.  i thought it would be fun to start some sort of group website and so I did.
         </p>
-        <iframe src="https://tawk.to/chat/63bc9d8747425128790c8d39/1gmccelvi" width="600px" height="800px" />
       </main>
 
       <Footer />
