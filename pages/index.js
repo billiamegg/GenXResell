@@ -16,7 +16,6 @@ export default function Home() {
           This website is bieng hosted by ryken kennedy.  i thought it would be fun to start some sort of group website and so I did.
         </p>
         <iframe src="https://tawk.to/chat/63bc9d8747425128790c8d39/1gmccelvi" />
-    <!--Start of Tawk.to Script-->
 <script type="text/javascript">
 var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
 (function(){
@@ -28,7 +27,6 @@ s1.setAttribute('crossorigin','*');
 s0.parentNode.insertBefore(s1,s0);
 })();
 </script>
-<!--End of Tawk.to Script-->
       </main>
 
       <Footer />
