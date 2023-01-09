@@ -14,6 +14,7 @@ export default function Home() {
         <Header title="Welcome to VoiceCrackerClub!!" />
         <p className="description">
           This website is bieng hosted by ryken kennedy.  i thought it would be fun to start some sort of group website and so I did.
+          contact billiam_egg@yahoo.com on more info on how to become a member lol.
         </p>
       </main>
 
